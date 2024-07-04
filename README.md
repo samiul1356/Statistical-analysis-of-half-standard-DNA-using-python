@@ -31,13 +31,15 @@ Click here for this problem's test datasets.
 Sample Input:
 
 AAAAGGGG
+
 A
+
 Sample Output:
 
 {0: 4, 1: 3, 2: 2, 3: 1, 4: 0, 5: 1, 6: 2, 7: 3}
 
 
-Coursera course Link of module 1.3 https://cogniterra.org/lesson/30252/step/13?unit=22340
+Coursera course Link of module 1.3: https://cogniterra.org/lesson/30252/step/13?unit=22340
 
 Exam title: Peculiar Statistics of the Forward and Reverse Half-Strands · Cogniterra
 
