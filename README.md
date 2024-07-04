@@ -25,14 +25,20 @@ def FasterSymbolArray(Genome, symbol):
         if ExtendedGenome[i+(n//2)-1] == symbol:
             array[i] = array[i]+1
     return array
-Code Challenge (1 point): Re-type this algorithm into the code window below. Then add this function to Replication.py.
+Code Challenge : Re-type this algorithm into the code window below. Then add this function to Replication.py.
 Click here for this problem's test datasets.
+
 Sample Input:
+
 AAAAGGGG
 A
 Sample Output:
+
 {0: 4, 1: 3, 2: 2, 3: 1, 4: 0, 5: 1, 6: 2, 7: 3}
+
+
 Coursera course Link of module 1.3 https://cogniterra.org/lesson/30252/step/13?unit=22340
+
 Exam title: Peculiar Statistics of the Forward and Reverse Half-Strands · Cogniterra
 
 
